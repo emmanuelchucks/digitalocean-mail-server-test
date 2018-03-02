@@ -1,0 +1,14 @@
+{
+  "name": "mail-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {},
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
